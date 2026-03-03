@@ -101,8 +101,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="++++ Infos\Beneering_SES_Template_09.02.2024.xlsx" />
-    <None Include="++++ Infos\DLD Upload Vorlage.url" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
